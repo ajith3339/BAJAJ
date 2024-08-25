@@ -1,0 +1,28 @@
+.App {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+}
+
+.btn {
+  padding: 10px 15px;
+}
+
+.filtered-response {
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+}
